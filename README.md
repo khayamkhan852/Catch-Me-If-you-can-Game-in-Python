@@ -1,3 +1,3 @@
 # Catch-Me-If-you-can-Game-in-Python
-##USAGE
+## USAGE
 Go to 
