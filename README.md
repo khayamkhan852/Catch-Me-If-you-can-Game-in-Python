@@ -4,4 +4,4 @@ This game is designed in TURTULE and OS Python libraries.
 Go to game directory in CMD and write python game.py.
 
 ## OUTPUT
-![game output](https://github.com/[khayamkhan852]/[Catch-Me-If-you-can-Game-in-Python]/output.JPG?raw=true)
+![game output](https://github.com/[khayamkhan852]/[Catch-Me-If-you-can-Game-in-Python]/blob/output.JPG?raw=true)
